@@ -1,4 +1,4 @@
 # exersice-repo
 Repo made for exersice
 
-tecst
+Hello Git!!!
